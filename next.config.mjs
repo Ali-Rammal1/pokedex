@@ -8,7 +8,7 @@ const nextConfig = {
       },
       {
         source: '/api/pokemon/:id',
-        destination: 'https://rpr35yaoze.execute-api.eu-west-2.amazonaws.com/Prod/pokemon:id',
+        destination: 'https://rpr35yaoze.execute-api.eu-west-2.amazonaws.com/Prod/pokemon/:id',
       },
     ];
   },
